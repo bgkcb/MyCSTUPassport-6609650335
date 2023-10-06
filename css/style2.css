@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(134, 185, 233);
+    text-align: center;
+    color: #141257;
+}
+h1 {
+    border: 2px dashed #141257;
+}
+h2 {
+    font-size: 35px
+}
+b {
+    font-size: 30px
+}
+a {
+    color: darkslategrey;
+}
